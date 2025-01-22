@@ -1,0 +1,17 @@
+.scoreboard {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    margin-bottom: 30px;
+    width: 100%;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .scoreboard p {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #fff;
+  }
