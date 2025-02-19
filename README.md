@@ -15,7 +15,7 @@ A React-based memory card game where players click unique images without repeati
 - Giphy API (for images)
 - CSS
 - JavaScript (ES6+)
-- Vite (or Create React App, if applicable)
+- Vite
 
 ### Features
 - Click-based memory test: Select an image without repeating any previous selection.
