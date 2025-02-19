@@ -61,6 +61,6 @@ A React-based memory card game where players click unique images without repeati
 - Using CSS to create a polished UI.
 
 ### Live Demo
-(Include link to your deployed project)
+https://memory-game-project-7x2wt3iyn-bash-the-kernels-projects.vercel.app/
 
 ---
