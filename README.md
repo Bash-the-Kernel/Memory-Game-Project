@@ -8,7 +8,7 @@ Here's a solid starting point for your README file:
 A React-based memory card game where players click unique images without repeating a selection. The game tracks the current and best scores dynamically.
 
 ### Screenshot
-(Include a screenshot of your working project here)
+![Memory Card Game](Screenshot_2025-02-19_13-09-58.png)
 
 ### Technologies Used
 - React.js
